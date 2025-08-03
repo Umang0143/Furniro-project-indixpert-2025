@@ -737,7 +737,7 @@ form {
   }
 }
 
-@media (max-width:576px) {
+/* @media (max-width:576px) {
     .container {
         min-width: 540px;
     }
@@ -765,4 +765,4 @@ form {
     .container {
         min-width: 1440px;
     }
-}
+} */
