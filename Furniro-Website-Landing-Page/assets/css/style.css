@@ -180,22 +180,22 @@ body {
 }
 
 .top-510 {
-    top: 510px;
+    top: 31.87rem;
 }
 
 .bottom-24 {
-    bottom: 24px;
+    bottom: 1.5rem;
 }
 
 .bottom-73 {
-    bottom: 73px;
+    bottom: 4.56rem;
 }
 
 .left-24 {
-    left: 24px;
+    left: 1.5rem;
 }
 .left-55{
-    left: 55px;
+    left: 3.43rem;
 }
 
 .left-213 {
@@ -203,7 +203,7 @@ body {
 }
 
 .left-241 {
-    left: 241px;
+    left: 15.06rem;
 }
 
 .left-739 {
@@ -211,11 +211,11 @@ body {
 }
 
 .right-55 {
-    right: 55px;
+    right: 3.43rem;
 }
 
 .right-328 {
-    right: 328px;
+    right: 20.5rem;
 }
 
 .list-unstyle {
@@ -243,7 +243,7 @@ body {
 }
 
 .fa-bars{
-  font-size: 25px;
+  font-size: 1.56rem;
   display: none;
 }
 
@@ -467,12 +467,12 @@ body {
 .inspiration {
     background-color: var(--bg-inspiration);
     overflow: hidden;
-    padding: 44px 0;
+    padding: 2.75rem 0;
     margin-top: 69px;
 }
 
 .designer {
-    margin-left: 100px;
+    margin-left: 6.25rem;
     flex: 1;
 }
 
@@ -481,7 +481,7 @@ body {
     font-weight: var(--font-weight-700);
     line-height: 120%;
     color: var(--text-p1-p3);
-    width: 422px;
+    width: 26.37rem;
 }
 
 .designer p {
@@ -489,35 +489,35 @@ body {
     font-weight: var(--font-weight-500);
     line-height: 150%;
     color: var(--text-inspiration);
-    max-width: 368px;
+    max-width: 23rem;
 }
 
 .designer button {
-    padding: 12px 36px;
-    margin-top: 32px;
+    padding: 0.75rem 2.25rem;
+    margin-top: 2rem;
 }
 
 .Rectangle {
-    height: 582px;
+    height: 36.37rem;
     flex: 2;
 }
 
 .Rectangle-25,.Rectangle-26 {
     width: 100%;
-    height: 486px;
+    height: 30.37rem;
     object-fit: cover;
 }
 
 .frame {
     background-color: #FFFFFFB8;
-    padding: 32px 17px 32px 32px;
-    width: 217px;
-    height: 130px;
+    padding: 2rem 1.06rem 2rem 2rem;
+    width: 13.56rem;
+    height: 8.12rem;
     z-index: 2;
 }
 
 .title-container {
-    gap: 8px;
+    gap: 0.5rem;
 }
 
 .title-container span {
@@ -528,24 +528,24 @@ body {
 }
 
 .separator {
-    width: 27px;
+    width: 1.68rem;
 }
 
 .frame p {
-    font-size: 28px;
+    font-size: 1.75rem;
     font-weight: var(--font-weight-600);
     line-height: 120%;
     color: var(--text-p1-p3);
 }
 
 .Right {
-    width: 48px;
-    height: 48px;
+    width: 3rem;
+    height: 3rem;
     z-index: 2;
 }
 
 .Right img {
-    width: 24px;
+    width: 1.5rem;
 }
 
 .swiper{
@@ -556,21 +556,21 @@ body {
 .swiper-button-next,
 .swiper-button-prev {
     background-color: var(--primary);
-    width: 48px;
-    height: 48px;
+    width: 3rem;
+    height: 3rem;
     padding: 12px;
     border-radius: 50%;
-    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+    box-shadow: 0 0.25rem 0.75rem rgba(0, 0, 0, 0.1);
 
-    --swiper-navigation-size: 24px;
+    --swiper-navigation-size: 1.5rem;
     --swiper-navigation-top-offset: 50%;
-    --swiper-navigation-sides-offset: 10px;
+    --swiper-navigation-sides-offset: 0.62rem;
     --swiper-navigation-color: var(--midal-primary);
 }
 
 .swiper-slide {
-    max-width: 410px;
-    height: 582px;
+    max-width: 25.62rem;
+    height: 36.37rem;
     overflow: hidden;
 }
 
@@ -580,17 +580,17 @@ body {
 }
 
 .swiper-pagination{
-    margin-left: 930px;
-    --swiper-pagination-bottom: 73px;
-    --swiper-pagination-bullet-horizontal-gap: 20px;
+    margin-left: 58.12rem;
+    --swiper-pagination-bottom: 4.56rem;
+    --swiper-pagination-bullet-horizontal-gap: 1.25rem;
     --swiper-pagination-color: var(--bg-round);
-    --swiper-pagination-bullet-size: 11px;
+    --swiper-pagination-bullet-size: 0.68rem;
 }
 
 
 /*////////////////     Gride-section  FuniroFurniture    //////////////////*/
 .grid-section{
-    padding: 67px 0 50px 0;
+    padding: 4.18rem 0 3.12rem 0;
 }
 .grid-para{
     font-size: var(--fs-6);
@@ -600,10 +600,10 @@ body {
 }
 .grid-container {
     grid-template-columns: repeat(8, 2fr);
-    grid-template-rows: repeat(7, 98px);
+    grid-template-rows: repeat(7, 6.12rem);
     gap: 1rem;
     margin: 0 auto;
-    height: 780px;
+    height: 48.75rem;
 }
 .h-100{
     height: 100%;
